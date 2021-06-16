@@ -3,228 +3,266 @@
     "id": 4,
     "name": "Shiika",
     "url": "https://github.com/shiika-lang/shiika",
-    "stars": "113"
+    "stars": 113,
+    "stars_display": "113"
   },
   {
     "id": 19,
     "name": "FFXIV Teamcraft",
     "url": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft",
-    "stars": "364"
+    "stars": 364,
+    "stars_display": "364"
   },
   {
     "id": 20,
     "name": "ng-pi-admin",
     "url": "https://github.com/bknds/ng-pi-admin",
-    "stars": "132"
+    "stars": 132,
+    "stars_display": "132"
   },
   {
     "id": 33,
     "name": "danger/danger",
     "url": "https://github.com/danger/danger",
-    "stars": "4.5k"
+    "stars": 4500,
+    "stars_display": "4.5k"
   },
   {
     "id": 35,
     "name": "graphql-let",
     "url": "https://github.com/piglovesyou/graphql-let",
-    "stars": "340"
+    "stars": 340,
+    "stars_display": "340"
   },
   {
     "id": 41,
     "name": "TSUP",
     "url": "https://github.com/egoist/tsup",
-    "stars": "456"
+    "stars": 456,
+    "stars_display": "456"
   },
   {
     "id": 42,
     "name": "Saber",
     "url": "https://github.com/saberland/saber",
-    "stars": "2.1k"
+    "stars": 2100,
+    "stars_display": "2.1k"
   },
   {
     "id": 43,
     "name": "VueUse",
     "url": "https://github.com/vueuse/vueuse",
-    "stars": "4.4k"
+    "stars": 4400,
+    "stars_display": "4.4k"
   },
   {
     "id": 44,
     "name": "Slidev",
     "url": "https://github.com/slidevjs/slidev",
-    "stars": "14k"
+    "stars": 14000,
+    "stars_display": "14k"
   },
   {
     "id": 46,
     "name": "Leon",
     "url": "https://github.com/leon-ai/leon",
-    "stars": "7.6k"
+    "stars": 7600,
+    "stars_display": "7.6k"
   },
   {
     "id": 52,
     "name": "itsumura-h/nim-basolato",
     "url": "https://github.com/itsumura-h/nim-basolato",
-    "stars": "134"
+    "stars": 134,
+    "stars_display": "134"
   },
   {
     "id": 53,
     "name": "Swiper",
     "url": "https://github.com/nolimits4web/swiper",
-    "stars": "27.6k"
+    "stars": 27600,
+    "stars_display": "27.6k"
   },
   {
     "id": 54,
     "name": "wocker",
     "url": "https://github.com/wckr/wocker",
-    "stars": "481"
+    "stars": 481,
+    "stars_display": "481"
   },
   {
     "id": 55,
     "name": "node cryptonode pool",
     "url": "https://github.com/zone117x/node-cryptonote-pool",
-    "stars": "791"
+    "stars": 791,
+    "stars_display": "791"
   },
   {
     "id": 64,
     "name": "napi-rs ",
     "url": "https://github.com/napi-rs/napi-rs",
-    "stars": "688"
+    "stars": 688,
+    "stars_display": "688"
   },
   {
     "id": 69,
     "name": "Snapshot",
     "url": "https://github.com/snapshot-labs/snapshot",
-    "stars": "217"
+    "stars": 217,
+    "stars_display": "217"
   },
   {
     "id": 70,
     "name": "vignette",
     "url": "https://github.com/vignette-project/vignette",
-    "stars": "136"
+    "stars": 136,
+    "stars_display": "136"
   },
   {
     "id": 71,
     "name": "lorcalhost/BTB-manager-telegram",
     "url": "https://github.com/lorcalhost/BTB-manager-telegram/",
-    "stars": "135"
+    "stars": 135,
+    "stars_display": "135"
   },
   {
     "id": 86,
     "name": "LunarVim",
     "url": "https://github.com/ChristianChiarulli/LunarVim",
-    "stars": "3.3k"
+    "stars": 3300,
+    "stars_display": "3.3k"
   },
   {
     "id": 100,
     "name": "Giveth.io",
     "url": "https://github.com/Giveth/giveth-dapp",
-    "stars": "282"
+    "stars": 282,
+    "stars_display": "282"
   },
   {
     "id": 105,
     "name": "kqryptic",
     "url": "https://github.com/ethereum-oasis/baseline",
-    "stars": "503"
+    "stars": 503,
+    "stars_display": "503"
   },
   {
     "id": 110,
     "name": "nuxt-community/typescript-template",
     "url": "https://github.com/nuxt-community/typescript-template",
-    "stars": "565"
+    "stars": 565,
+    "stars_display": "565"
   },
   {
     "id": 118,
     "name": "GhostText/GhostText",
     "url": "https://github.com/GhostText/GhostText",
-    "stars": "2.5k"
+    "stars": 2500,
+    "stars_display": "2.5k"
   },
   {
     "id": 124,
     "name": "Pock",
     "url": "https://github.com/pock/pock",
-    "stars": "9.2k"
+    "stars": 9200,
+    "stars_display": "9.2k"
   },
   {
     "id": 133,
     "name": "sindresorhus/refined-github",
     "url": "https://github.com/sindresorhus/refined-github",
-    "stars": "14.7k"
+    "stars": 14700,
+    "stars_display": "14.7k"
   },
   {
     "id": 135,
     "name": "Brownie",
     "url": "https://github.com/eth-brownie/brownie",
-    "stars": "709"
+    "stars": 709,
+    "stars_display": "709"
   },
   {
     "id": 155,
     "name": "nuxt-community/typescript-template",
     "url": "https://github.com/nuxt-community/typescript-template",
-    "stars": "565"
+    "stars": 565,
+    "stars_display": "565"
   },
   {
     "id": 173,
     "name": "vuejs/vue",
     "url": "https://github.com/vuejs/vue-next",
-    "stars": "3.9k"
+    "stars": 3900,
+    "stars_display": "3.9k"
   },
   {
     "id": 174,
     "name": "DisTube",
     "url": "https://github.com/skick1234/DisTube",
-    "stars": "117"
+    "stars": 117,
+    "stars_display": "117"
   },
   {
     "id": 176,
     "name": "koxudaxi/fastapi-code-generator",
     "url": "https://github.com/koxudaxi/fastapi-code-generator",
-    "stars": "240"
+    "stars": 240,
+    "stars_display": "240"
   },
   {
     "id": 177,
     "name": "koxudaxi/pydantic-pycharm-plugin",
     "url": "https://github.com/koxudaxi/pydantic-pycharm-plugin",
-    "stars": "150"
+    "stars": 150,
+    "stars_display": "150"
   },
   {
     "id": 181,
     "name": "Browserosaurus",
     "url": "https://github.com/will-stone/browserosaurus",
-    "stars": "494"
+    "stars": 494,
+    "stars_display": "494"
   },
   {
     "id": 188,
     "name": "gajus/slonik",
     "url": "https://github.com/gajus/slonik",
-    "stars": "2.5k"
+    "stars": 2500,
+    "stars_display": "2.5k"
   },
   {
     "id": 189,
     "name": "Uncode",
     "url": "https://github.com/inherd/uncode/",
-    "stars": "175"
+    "stars": "175",
+    "stars_display": "175"
   },
   {
     "id": 191,
     "name": "PhotoPrism",
     "url": "https://github.com/photoprism/photoprism",
-    "stars": "15k"
+    "stars": 15000,
+    "stars_display": "15k"
   },
   {
     "id": 195,
     "name": "NativeScript",
     "url": "github.com/NativeScript/NativeScript",
-    "stars": "20.2"
+    "stars": 20200,
+    "stars_display": "20.2k"
   },
   {
     "id": 201,
     "name": "awesome-go-cn",
     "url": "https://github.com/yinggaozhen/awesome-go-cn",
-    "stars": "2.8k"
+    "stars": 2800,
+    "stars_display": "2.8k"
   },
   {
     "id": 207,
     "name": "piglovesyou/graphql-let",
     "url": "https://github.com/piglovesyou/graphql-let",
-    "stars": "340"
+    "stars": "340",
+    "stars_display": "340"
   }
 ]
