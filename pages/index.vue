@@ -32,8 +32,15 @@
           <div class="way">
             <img src="/images/eth_qr.png" alt="ETH" />
           </div>
-          <div class="message01">œœ</div>
-          <a href="/" class="message02 display-6">View on Etherscan ↗</a>
+          <div class="message01">
+            0x4528e1D848A38AD3662EA11A1669B4831258252E
+          </div>
+          <a
+            href="https://etherscan.io/address/0x4528e1D848A38AD3662EA11A1669B4831258252E"
+            class="message02 display-6"
+            target="_blank"
+            >View on Etherscan ↗</a
+          >
         </a-col>
         <a-col class="way-right" :xs="24" :sm="24" :md="12" :lg="12">
           <div class="currency display-5 font-whyte-inktrap">USD</div>
