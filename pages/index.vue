@@ -50,7 +50,11 @@
     </div>
     <div class="special-sponsors-wrapper">
       <div class="section-title display-5">Special sponsors</div>
-      <img src="/images/logo01.png" alt="SIOS" class="sponsors-logo" />
+      <img
+        src="/images/sponsors/logos/sios.png"
+        alt="SIOS"
+        class="sponsors-logo"
+      />
     </div>
     <div class="fundable-list-wrapper">
       <div class="section-title display-4">All fundable OSSs</div>
@@ -74,7 +78,11 @@
     <div class="sponsors-wrapper">
       <div class="section-title display-4">Sponsors</div>
       <div class="sponsors-title display-5">Special sponsors</div>
-      <img src="/images/logo01.png" alt="SIOS" class="sponsors-logo" />
+      <img
+        src="/images/sponsors/logos/sios.png"
+        alt="SIOS"
+        class="sponsors-logo"
+      />
       <div class="sponsors-title display-5">Individual sponsors</div>
       <a-row
         class="individual-sponsors-row"
@@ -288,7 +296,7 @@ dd {
       right: 39px;
       width: 78px;
       height: 78px;
-      background: url('/images/pic01.png') no-repeat;
+      background: url('/images/sponsors/dove.png') no-repeat;
       background-size: contain;
 
       @media (max-width: 576px) {
