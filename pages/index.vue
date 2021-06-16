@@ -109,8 +109,7 @@
             type="flex"
             justify="space-between"
           >
-            <a-col span="12">{{ sponsor.address }}</a-col>
-            <a-col span="12">{{ sponsor.name }}</a-col>
+            <a-col span="12">{{ sponsor.ens || sponsor.address }}</a-col>
           </a-row>
         </a-col>
       </a-row>
