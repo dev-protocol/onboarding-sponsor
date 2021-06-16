@@ -1,6 +1,6 @@
-const title = 'Dev Airdrop for GitHub'
+const title = 'Onboarding Sponsors'
 const description =
-  'Dear all OSS developers, thank you for supporting the OSS ecosystem thus far. Dev Protocol will reward up to $2,100,000 to the most active GitHub users as a tribute and thank you for all your efforts.'
+  'You can help by donating the cost of OSS projects gas fees and help make their crypto experience an amazing journey.'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -15,8 +15,56 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: description },
+      { property: 'og:title', content: title },
+      { property: 'og:site_name', content: title },
+      {
+        property: 'og:url',
+        content: 'https://onboarding-sponsors.devprotocol.xyz',
+      },
+      {
+        property: 'og:description',
+        content: description,
+      },
+      { property: 'og:type', content: 'website' },
+      {
+        property: 'og:image',
+        content:
+          'https://onboarding-sponsors.devprotocol.xyz/images/eyecatch.png',
+      },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:site', content: '@devprtcl' },
+      {
+        name: 'twitter:description',
+        content: description,
+      },
+      { name: 'twitter:title', content: title },
+      {
+        name: 'twitter:image',
+        content:
+          'https://onboarding-sponsors.devprotocol.xyz/images/eyecatch.png',
+      },
     ],
     link: [
+      {
+        rel: 'preload',
+        href: 'https://devstaticasset.azureedge.net/font/ABCWhyte-Regular.woff2',
+        as: 'font',
+      },
+      {
+        rel: 'preload',
+        href: 'https://devstaticasset.azureedge.net/font/ABCWhyteInktrap-Bold.woff2',
+        as: 'font',
+      },
+      {
+        rel: 'preload',
+        href: 'https://devstaticasset.azureedge.net/font/ABCWhyteInktrap-Regular.woff2',
+        as: 'font',
+      },
+      {
+        rel: 'preload',
+        href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap',
+        as: 'style',
+      },
       {
         rel: 'icon',
         type: 'image/png',
