@@ -1,4 +1,4 @@
-# gendou-app
+# onboarding-sponsor
 
 ## Build Setup
 
