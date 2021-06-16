@@ -55,19 +55,19 @@
     <div class="fundable-list-wrapper">
       <div class="section-title display-4">All fundable OSSs</div>
       <a-row
-        v-for="oss in foundableOSSs"
+        v-for="(oss, index) in sortedFundableOSSsByStars"
         :key="oss.id"
         class="list-row"
         type="flex"
         justify="space-between"
         align="top"
       >
-        <a-col :xs="3" :sm="3" :md="2" :lg="2">{{ oss.id }}</a-col>
+        <a-col :xs="3" :sm="3" :md="2" :lg="2">{{ index + 1 }}</a-col>
         <a-col :xs="14" :sm="14" :md="18" :lg="18" span="18"
           ><a :href="oss.url" target="_blank">{{ oss.name }} ↗</a></a-col
         >
         <a-col :xs="7" :sm="7" :md="4" :lg="4" style="text-align: right"
-          >{{ oss.stars }} stars</a-col
+          >{{ oss.stars_display }} stars</a-col
         >
       </a-row>
     </div>
@@ -220,6 +220,14 @@ export default Vue.extend({
       foundableOSSs: foundableOSS,
       sponsors: sponsorsData,
     }
+  },
+  computed: {
+    sortedFundableOSSsByStars() {
+      // eslint-disable-next-line vue/no-side-effects-in-computed-properties
+      return this.foundableOSSs.sort((a, b) => {
+        return a.stars > b.stars ? -1 : a.stars < b.stars ? 1 : 0
+      })
+    },
   },
   methods: {
     handleStripe() {
