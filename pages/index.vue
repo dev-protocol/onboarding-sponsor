@@ -5,10 +5,10 @@
         Another way to help OSS projects
       </div>
       <div class="information display-5">
-        More than 90% of OSS projects are non-crypto users and have trouble
-        onboarding on Stakes.social because they don't have a small amount of
-        ETH for gas fee. Please donate the cost of their gas fee and help make
-        their crypto experience an amazing journey.
+        More than 90% of OSS projects are run by non-crypto users and have
+        trouble onboarding on Stakes.social because they don't have a small
+        amount of ETH for gas fee. You can help by donating the cost of their
+        gas fee and help make their crypto experience an amazing journey.
       </div>
     </div>
     <div class="donation-wrapper">
@@ -127,13 +127,13 @@
         align="top"
       >
         <a-col class="program-title" :xs="24" :sm="24" :md="8" :lg="8"
-          >What is this?</a-col
+          >What is the purpose of the program?</a-col
         >
         <a-col class="program-content" :xs="24" :sm="24" :md="16" :lg="16"
-          >This is a sponsorship programme to cover the gas fee for great OSS
-          projects that have applied for an invitation but have not yet been
-          tokenised.</a-col
-        >
+          >This sponsorship program will support the onboarding of great OSS
+          projects that wished to join Stakes.social but have not yet been
+          tokenized.
+        </a-col>
       </a-row>
       <a-row
         id="benefits-for-sponsors"
@@ -146,12 +146,19 @@
           >Benefits for sponsors</a-col
         >
         <a-col class="program-content" :xs="24" :sm="24" :md="16" :lg="16"
-          >Special sponsors will be featured with their logo on this programme
-          page and on Stakes.social's front page.<br />
+          >Special sponsors (Enterprises, or those who donate above and beyond)
+          will be featured with their logo on the program page and on also
+          Stakes.social's front page. <br />
           <br />
           Individual sponsors will be listed with their ENS or wallet address
-          and their name on the Stripe payment.</a-col
-        >
+          and their name on the Stripe payment.
+          <a
+            href="mailto: hi@devprotocol.xyz"
+            style="text-decoration: underline"
+            >Contact us</a
+          >
+          if you would prefer to be anonymous.
+        </a-col>
       </a-row>
       <a-row
         id="how-to-be-a-sponsor"
@@ -166,7 +173,11 @@
         <a-col class="program-content" :xs="24" :sm="24" :md="16" :lg="16">
           Send 0.05 ETH to the specified address, or pay 150 USD with a credit
           card. If you want to become a special sponsor, please enter via
-          <a href="/" style="text-decoration: underline">this form</a>.
+          <a
+            href="https://airtable.com/shrE9S6Fb6lFGEZhZ"
+            style="text-decoration: underline"
+            >this form</a
+          >.
         </a-col>
       </a-row>
       <a-row
@@ -177,14 +188,14 @@
         align="top"
       >
         <a-col class="program-title" :xs="24" :sm="24" :md="8" :lg="8">
-          How donations are paid to OSS?
+          How are donations paid to OSS?
         </a-col>
         <a-col class="program-content" :xs="24" :sm="24" :md="16" :lg="16">
-          Dev Protocol team will confirm with the OSS owners whether the
-          donation is accepted or not, and if they accept it and agree to the
-          program, FRAME00 will send the equivalent amount of the gas fee to
-          their wallet. If the donation exceeds the required amount, it will be
-          used for payment fees or carried over to the next month.
+          The Dev Protocol team will confirm with the OSS owners on whether the
+          donation is accepted or not. If they accept it and agree to the
+          program, the team will support their onboarding process. If the
+          donation exceeds the required amount, it will be used for payment fees
+          or carried over to the next month.
         </a-col>
       </a-row>
       <a-row
@@ -201,7 +212,7 @@
           OSS projects with more than 100 stars at the invited date are
           automatically added to the program. The projects are sorted in
           descending order by the number of stars they have, and the gas fee
-          equivalent is allocated in order from the top.
+          equivalent is allocated starting from the top.
         </a-col>
       </a-row>
       <a-row
@@ -215,9 +226,9 @@
           Program duration
         </a-col>
         <a-col class="program-content" :xs="24" :sm="24" :md="16" :lg="16">
-          The programme ends on 31 August (JST). We will automatically add any
-          invitation requests received by the team during this period to the
-          programme.
+          The program ends on the 31st of August (JST). We will automatically
+          add any invitation requests received by the team during this period to
+          the program.
         </a-col>
       </a-row>
     </div>
