@@ -57,7 +57,7 @@
     </div>
     <div class="special-sponsors-wrapper">
       <div class="section-title display-5">Special sponsors</div>
-      <a href="https://sios.jp/" target="_blank">
+      <a href="https://us.sios.com/" target="_blank">
         <img
           src="/images/sponsors/logos/sios.png"
           alt="SIOS"
@@ -87,7 +87,7 @@
     <div class="sponsors-wrapper">
       <div class="section-title display-4">Sponsors</div>
       <div class="sponsors-title display-5">Special sponsors</div>
-      <a href="https://sios.jp/" target="_blank">
+      <a href="https://us.sios.com/" target="_blank">
         <img
           src="/images/sponsors/logos/sios.png"
           alt="SIOS"
