@@ -151,11 +151,11 @@
           Stakes.social's front page. <br />
           <br />
           Individual sponsors will be listed with their ENS or wallet address
-          and their name on the Stripe payment.
+          and their name on the Stripe payment. please make
           <a
-            href="mailto: hi@devprotocol.xyz"
+            href="https://buy.stripe.com/dR600w8Rpbme5EY7su"
             style="text-decoration: underline"
-            >Contact us</a
+            >a donation here</a
           >
           if you would prefer to be anonymous.
         </a-col>
