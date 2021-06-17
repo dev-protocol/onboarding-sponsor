@@ -57,11 +57,13 @@
     </div>
     <div class="special-sponsors-wrapper">
       <div class="section-title display-5">Special sponsors</div>
-      <img
-        src="/images/sponsors/logos/sios.png"
-        alt="SIOS"
-        class="sponsors-logo"
-      />
+      <a href="https://us.sios.com/" target="_blank">
+        <img
+          src="/images/sponsors/logos/sios.png"
+          alt="SIOS"
+          class="sponsors-logo"
+        />
+      </a>
     </div>
     <div class="fundable-list-wrapper">
       <div class="section-title display-4">All fundable OSSs</div>
@@ -85,11 +87,13 @@
     <div class="sponsors-wrapper">
       <div class="section-title display-4">Sponsors</div>
       <div class="sponsors-title display-5">Special sponsors</div>
-      <img
-        src="/images/sponsors/logos/sios.png"
-        alt="SIOS"
-        class="sponsors-logo"
-      />
+      <a href="https://us.sios.com/" target="_blank">
+        <img
+          src="/images/sponsors/logos/sios.png"
+          alt="SIOS"
+          class="sponsors-logo"
+        />
+      </a>
       <div class="sponsors-title display-5">Individual sponsors</div>
       <a-row
         class="individual-sponsors-row"
@@ -109,8 +113,7 @@
             type="flex"
             justify="space-between"
           >
-            <a-col span="12">{{ sponsor.address }}</a-col>
-            <a-col span="12">{{ sponsor.name }}</a-col>
+            <a-col span="12">{{ sponsor.ens || sponsor.address }}</a-col>
           </a-row>
         </a-col>
       </a-row>
