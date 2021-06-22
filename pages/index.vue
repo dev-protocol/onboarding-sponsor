@@ -29,6 +29,7 @@
       >
         <a-col class="way-left" :xs="24" :sm="24" :md="12" :lg="12">
           <div class="currency display-5 font-whyte-inktrap">ETH</div>
+          <div class="send-eth display-6 font-whyte-inktrap">Send 0.05ETH</div>
           <div class="way">
             <img src="/images/eth_qr.png" alt="ETH" />
           </div>
