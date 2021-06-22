@@ -518,6 +518,10 @@ dd {
     @media (max-width: 576px) {
       flex-direction: column;
     }
+
+    .individual-sponsors-col {
+      line-height: 200%;
+    }
   }
 }
 
