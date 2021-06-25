@@ -28,25 +28,11 @@
     "stars_display": "4.5k"
   },
   {
-    "id": 41,
-    "name": "egoist/tsup",
-    "url": "https://github.com/egoist/tsup",
-    "stars": 456,
-    "stars_display": "456"
-  },
-  {
     "id": 42,
     "name": "saberland/saber",
     "url": "https://github.com/saberland/saber",
     "stars": 2100,
     "stars_display": "2.1k"
-  },
-  {
-    "id": 43,
-    "name": "vueuse/vueuse",
-    "url": "https://github.com/vueuse/vueuse",
-    "stars": 4500,
-    "stars_display": "4.5k"
   },
   {
     "id": 44,
@@ -145,13 +131,6 @@
     "url": "https://github.com/nuxt-community/typescript-template",
     "stars": 565,
     "stars_display": "565"
-  },
-  {
-    "id": 118,
-    "name": "GhostText/GhostText",
-    "url": "https://github.com/GhostText/GhostText",
-    "stars": 2500,
-    "stars_display": "2.5k"
   },
   {
     "id": 124,
