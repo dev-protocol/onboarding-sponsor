@@ -2349,10 +2349,10 @@ ansi-styles@^5.0.0:
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-5.2.0.tgz#07449690ad45777d1924ac2abb2fc8895dba836b"
   integrity sha512-Cxwpt2SfTzTtXcfOlzGEee8O+c+MmUgGrNiBcXnuWxuFJHe6a5Hz7qwhwe5OgaSYI0IJvkLqWX1ASG+cJOkEiA==
 
-ant-design-vue@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.5.tgz#e7ed04cb358adc56be02c7453d2db026d2c405e3"
-  integrity sha512-QVrirCz6eetzui+Dv/ujMqUwIr8e/2H+pKr4VC3mpc+cHkw6L9cBRJK7DhfO7GTyK4EWKkEH3lfLWlD/XjUoQQ==
+ant-design-vue@1.7.6:
+  version "1.7.6"
+  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.6.tgz#976a84ff037c2e5f0586dcd697eafb8cf7983b1e"
+  integrity sha512-EOS6g/deT53xHxZDMOxedyBehXSNMGnxdOeQtDksmiRvCBrZs+yoFYoVOe9pmQ8EJ7XQLn8TMReiYbXi78kppA==
   dependencies:
     "@ant-design/icons" "^2.1.1"
     "@ant-design/icons-vue" "^2.0.0"
