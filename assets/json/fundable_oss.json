@@ -229,5 +229,19 @@
     "url": "https://github.com/talentlessguy/tinyws",
     "stars": "110",
     "stars_display": "110"
+  },
+  {
+    "id": 232,
+    "name": "framework7io/framework7",
+    "url": "https://github.com/framework7io/framework7",
+    "stars": "16200",
+    "stars_display": "16.2k"
+  },
+  {
+    "id": 234,
+    "name": "cryptomator/cryptomator",
+    "url": "https://github.com/cryptomator/cryptomator",
+    "stars": "5500",
+    "stars_display": "5.5k"
   }
 ]
