@@ -257,5 +257,12 @@
     "url": "https://github.com/tsurumeso/vocal-remover",
     "stars": "229",
     "stars_display": "229"
+  },
+  {
+    "id": 266,
+    "name": "nativescript-vue/nativescript-vue",
+    "url": "https://github.com/nativescript-vue/nativescript-vue",
+    "stars": "4733",
+    "stars_display": "4.7k"
   }
 ]
