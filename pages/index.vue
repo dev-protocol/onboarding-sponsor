@@ -8,8 +8,9 @@
         More than 90% of OSS projects are run by non-crypto users and have
         trouble onboarding on Stakes.social because they don't have a small
         amount of ETH for gas fee. You can help by donating the cost of their
-        gas fee and help make their crypto experience an amazing journey.<br>
+        gas fee and help make their crypto experience an amazing journey.
       </div>
+      <br />
       <div class="information display-5">
         The onboarding sponsor will end on August 31, 2021
       </div>
