@@ -10,6 +10,9 @@
         amount of ETH for gas fee. You can help by donating the cost of their
         gas fee and help make their crypto experience an amazing journey.
       </div>
+      <div class="information display-5">
+        The onboarding sponsor will end on August 31, 2021
+      </div>
     </div>
     <div class="donation-wrapper">
       <a-row class="donation" type="flex" justify="center" align="top">
