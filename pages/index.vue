@@ -12,7 +12,7 @@
       </div>
       <br />
       <div class="information display-5">
-        The onboarding sponsor will end on August 31, 2021
+        The onboarding sponsor has ended
       </div>
     </div>
     <div class="donation-wrapper">
